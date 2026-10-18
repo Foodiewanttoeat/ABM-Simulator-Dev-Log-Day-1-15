@@ -10,3 +10,4 @@
   * Core Concepts of Cursor : [Cursor 3.0 - Full Course for Beginners](https://www.youtube.com/watch?v=Tv8mLrLtyxo)
   * How to have a cursor for yourself : many videos, choosing one you can understand
 * The structure of ABM I want to struct : [Here]()
+* And, translate it into a computer program structure(C++) : [Here]()
